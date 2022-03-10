@@ -19,7 +19,7 @@ nas classes filhas deve existir o mesmo método bonificação porem com as segui
 - Crie uma classe HospedagemVIP, que herda de Hospedagem e possui um valor adicional.</br>
 - Crie um método que retorne o valor do HospedagemVIP (com o adicional incluído).</br>
 - Crie um programa para criar as instâncias de Hospedagem e HospedagemVIP, mostrando a diferença de preços.</br></br>
-4. [Frase invertida](https://github.com/gustavolobo95/exercicios/tree/master/src/fraseInvertida)</br></br>
+4. [Frase invertida](https://github.com/gustavolobo95/exercicios/tree/master/src/fraseInvertida)</br></br>(Exercicio resolvido pelo [Wellington Domiciano](https://github.com/wldomiciano))</br>
 - Fazer um programa que diga se a frase/palavra quando invertida a sequência de letras continua exatamente igual.</br>
 - Imprimindo um boolean no console com a resposta, usar os testes abaixo:</br>
   - "Ana" -> true"</br>
